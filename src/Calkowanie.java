@@ -48,7 +48,7 @@ public class Calkowanie {
          double x1 = sc.nextDouble();
          double x2 = sc.nextDouble();
          
-         //System.out.printf("%.4f\n", calkowanie_tapezowe(a, b, c, x1, x2));
+         //System.out.printf("%.4f\n", calkowanie_trapezowe(a, b, c, x1, x2));
          System.out.printf("%.4f\n", calkowanie(a, b, c, x1, x2));
     }
 }
