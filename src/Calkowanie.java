@@ -8,7 +8,7 @@ import java.util.Scanner;
         
 /**
  *
- * @author furas
+ * @author furas@tlen.pl
  */
 public class Calkowanie {
 
