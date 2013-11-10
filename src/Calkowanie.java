@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 public class Calkowanie {
 
-    public static double calkowanie_tapezowe(double a, double b, double c, double x1, double x2) {
+    public static double calkowanie_trapezowe(double a, double b, double c, double x1, double x2) {
         
         double dokladnosc = 0.00001;
 
